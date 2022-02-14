@@ -1,16 +1,20 @@
-### Hi there 👋
+#  FULL-STCAK DEVELOPER 💻 
 
-<!--
-**SantiClemenzi/SantiClemenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Santiago Clemenzi👋👋, soy egresado del ITS Villada, escuela técnica, en la especialidad de electrónica. Recientemente he finalizado una diplomatura full stack developer en E-learning en conjunto con la UTN.
+Al dia de hoy continuo formandome con nuevos cursos para complemntar mi conocimento. 
 
-Here are some ideas to get you started:
+# Lenguajes  👾 
+- HTML
+- CSS
+- JavaScript
+- PHP
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Librerias 👾 
+- Bootstrap
+- ReactJS
+
+#Demas Herramientas 🔧 ⚙️ 
+- Git y Github
+- PHPMyAdmin
+- XAMPP

@@ -10,11 +10,11 @@ Al dia de hoy continuo formandome con nuevos cursos para complemntar mi conocime
 - PHP
 - SQL
 
-#Librerias 👾 
+# Librerias 👾 
 - Bootstrap
 - ReactJS
 
-#Demas Herramientas 🔧 ⚙️ 
+# Demas Herramientas 🔧 ⚙️ 
 - Git y Github
 - PHPMyAdmin
 - XAMPP

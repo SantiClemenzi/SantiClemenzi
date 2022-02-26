@@ -10,7 +10,7 @@ Al día de hoy continúo formándome con nuevos cursos para complementar mi cono
 - PHP
 - SQL
 
-# Librerias 👾 
+# FrameWorks 👾 
 - Bootstrap
 - ReactJS
 

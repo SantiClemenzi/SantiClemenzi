@@ -9,6 +9,7 @@ Al día de hoy continúo formándome con nuevos cursos para complementar mi cono
 - JavaScript
 - PHP
 - SQL
+- Python
 
 # FrameWorks 👾 
 - Bootstrap
@@ -21,4 +22,4 @@ Al día de hoy continúo formándome con nuevos cursos para complementar mi cono
 - Firebase
 - PHPMyAdmin
 - XAMPP
-- Wordpress
+- WordPress

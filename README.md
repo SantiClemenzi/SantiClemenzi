@@ -13,9 +13,12 @@ Al día de hoy continúo formándome con nuevos cursos para complementar mi cono
 # FrameWorks 👾 
 - Bootstrap
 - ReactJS
+- Laravel
+- Symfony
 
 # Demas Herramientas 🔧 ⚙️ 
 - Git y Github
 - Firebase
 - PHPMyAdmin
 - XAMPP
+- Wordpress

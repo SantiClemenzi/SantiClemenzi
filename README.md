@@ -4,22 +4,27 @@ Me llamo Santiago Clemenzi👋👋, soy egresado del ITS Villada, escuela técni
 Al día de hoy continúo formándome con nuevos cursos para complementar mi conocimiento. 
 
 # Lenguajes  👾 
-- HTML
-- CSS
-- JavaScript
 - PHP
+- Java
 - SQL
-- Python
+- JavaScript
+- HTML/CSS
+
 
 # FrameWorks 👾 
-- Bootstrap
-- ReactJS
 - Laravel
 - Symfony
+- Spring
+- ReactJS
+- Bootstrap
+
+
 
 # Demas Herramientas 🔧 ⚙️ 
 - Git y Github
+- Bitbuket
 - Firebase
 - PHPMyAdmin
+- Workbench
 - XAMPP
-- WordPress
+

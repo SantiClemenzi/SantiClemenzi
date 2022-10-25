@@ -1,7 +1,6 @@
-#  FULL-STACK DEVELOPER 💻 
+#  BACKEND DEVELOPER 💻 
 
-Me llamo Santiago Clemenzi👋👋, soy egresado del ITS Villada, escuela técnica, en la especialidad de electrónica. Recientemente he finalizado una diplomatura full stack developer en E-learning en conjunto con la UTN.
-Al día de hoy continúo formándome con nuevos cursos para complementar mi conocimiento. 
+Me llamo Santiago Clemenzi👋👋, Soy back end developer, en búsqueda de mejorar mis conocimientos y experiencia con java. Actualmente me encuentro trabajando en una empresa de software con las tecnologias PHP y Symfony.
 
 # Lenguajes  👾 
 - PHP
@@ -27,4 +26,5 @@ Al día de hoy continúo formándome con nuevos cursos para complementar mi cono
 - PHPMyAdmin
 - Workbench
 - XAMPP
+- Kanban
 
